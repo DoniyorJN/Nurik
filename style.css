@@ -316,7 +316,7 @@ a:hover{
 }
 .about .single-about .cv a {
 	font-weight: 500;
-	font-size: 15px;
+	font-size: 18.5px;
 	height: 40px;
 	color: #fff;
 	background:#42BC7F;
@@ -349,10 +349,10 @@ a:hover{
 	font-size: 20px;
 	color: #fff;
 	background: #42bc7f;
-	font-size: 17px;
-	height: 30px;
-	width: 30px;
-	line-height: 30px;
+	font-size: 20px;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
 	border-radius: 0px;
 	
 }
@@ -924,34 +924,8 @@ a:hover{
 	box-shadow: 4px 4px 10px #0003;
 	background: #fff;
 }
-.contact .form .form-group{
-	margin-bottom:25px;
-}
-.contact .form .form-group:last-child{
-	margin-bottom:0px;
-}
-.contact .form input{
-	width: 100%;
-    height: 46px;
-    padding-left: 15px;
-	border:1px solid #ccc;
-	text-transform:capitalize;
-}
-.contact .form input:hover,.contact .form input:focus{
-	border-color:#42bc7f;
-}
-.contact .form textarea{
-	width: 100%;
-	height:200px;
-    padding: 15px;
-	border:1px solid #ccc;
-	text-transform:capitalize;
-	/*resize:none;*/
-}
-.contact .form textarea:hover,
-.contact .form textarea:focus{
-	border-color:#42bc7f;
-}
+
+
 .contact .contact-info {
 	margin-top: 26px;
 }
